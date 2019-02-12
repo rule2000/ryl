@@ -1,2 +1,2 @@
 print("good bye worrld")
-rint("good bye world")
+print("good bye world")
